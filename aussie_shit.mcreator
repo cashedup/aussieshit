@@ -122,13 +122,51 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "meat_pie_recipe"
+    },
+    {
+      "name": "SausageRoll",
+      "type": "food",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sausage_roll"
+    },
+    {
+      "name": "FrozenSausageRoll",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_sausage_roll"
+    },
+    {
+      "name": "FrozenSausageRollRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_sausage_roll_recipe"
+    },
+    {
+      "name": "SausageRollRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sausage_roll_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.aussie_shit.frozen_sausage_roll": "Frozen Sausage Roll",
       "item.aussie_shit.meat_pie": "Meat Pie",
+      "item.aussie_shit.sausage_roll": "Sausage Roll",
       "item.aussie_shit.frozen_pie": "Frozen Pie",
       "item.aussie_shit.lighter": "Lighter",
       "item.aussie_shit.pastry": "Pastry"

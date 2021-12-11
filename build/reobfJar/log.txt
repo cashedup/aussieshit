@@ -1,5 +1,5 @@
 Java Launcher: C:\Users\linco\.mcreator\gradle\jdks\jdk8u312-b07\bin\java.exe
-Arguments: '--in-jar, C:\Users\linco\MCreatorWorkspaces\aussie_shit\build\libs\modid-1.0.jar, --out-jar, C:\Users\linco\MCreatorWorkspaces\aussie_shit\build\reobfJar\output.jar, --srg-in, C:\Users\linco\MCreatorWorkspaces\aussie_shit\build\createMcpToSrg\output.tsrg, --live'
+Arguments: '--in-jar, C:\Users\linco\Documents\GitHub\aussieshit\build\libs\modid-1.0.jar, --out-jar, C:\Users\linco\Documents\GitHub\aussieshit\build\reobfJar\output.jar, --srg-in, C:\Users\linco\Documents\GitHub\aussieshit\build\createMcpToSrg\output.tsrg, --live'
 Classpath:
  - C:\Users\linco\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\md-5\SpecialSource\1.10.0\SpecialSource-1.10.0-shaded.jar
  - C:\Users\linco\.mcreator\gradle\caches\forge_gradle\minecraft_user_repo\net\minecraftforge\forge\1.16.5-36.2.0_mapped_snapshot_20201028-1.16.3\forge-1.16.5-36.2.0_mapped_snapshot_20201028-1.16.3-recomp.jar
@@ -65,7 +65,7 @@ Classpath:
  - C:\Users\linco\.mcreator\gradle\caches\modules-2\files-2.1\org.codehaus.plexus\plexus-utils\3.2.1\13b015768e0d04849d2794e4c47eb02d01a0de32\plexus-utils-3.2.1.jar
  - C:\Users\linco\.mcreator\gradle\caches\modules-2\files-2.1\org.jline\jline-reader\3.12.1\4382ab1382c7b6f379377ed5f665dc2f6e1218bc\jline-reader-3.12.1.jar
  - C:\Users\linco\.mcreator\gradle\caches\modules-2\files-2.1\org.jline\jline-terminal\3.12.1\c777448314e050d980a6b697c140f3bfe9eb7416\jline-terminal-3.12.1.jar
-Working directory: C:\Users\linco\MCreatorWorkspaces\aussie_shit\build\reobfJar
+Working directory: C:\Users\linco\Documents\GitHub\aussieshit\build\reobfJar
 Main class: net.md_5.specialsource.SpecialSource
 ====================================
 Loading mappings
@@ -78,13 +78,13 @@ Loading mappings... 50%
 0 packages, 5447 classes, 21481 fields, 38359 methods
 Remapping final jar
 Remapping jar...  3%
-Remapping jar... 10%
-Remapping jar... 20%
-Remapping jar... 30%
-Remapping jar... 40%
+Remapping jar... 13%
+Remapping jar... 22%
+Remapping jar... 31%
+Remapping jar... 41%
 Remapping jar... 50%
-Remapping jar... 60%
-Remapping jar... 70%
-Remapping jar... 80%
-Remapping jar... 90%
+Remapping jar... 63%
+Remapping jar... 72%
+Remapping jar... 81%
+Remapping jar... 91%
 Remapping jar... 100%

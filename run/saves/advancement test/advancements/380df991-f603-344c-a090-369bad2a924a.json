@@ -1,0 +1,17 @@
+{
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2021-12-12 03:23:50 +1000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-12-12 03:24:17 +1000",
+      "minecraft:mountains": "2021-12-12 03:24:16 +1000",
+      "minecraft:taiga": "2021-12-12 03:23:04 +1000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

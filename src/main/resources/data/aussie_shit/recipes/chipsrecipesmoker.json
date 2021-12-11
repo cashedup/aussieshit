@@ -1,0 +1,12 @@
+{
+  "group": "aussie_shit",
+  "type": "minecraft:smoking",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "aussie_shit:chipsfrozen"
+  },
+  "result": {
+    "item": "aussie_shit:chipscooked"
+  }
+}

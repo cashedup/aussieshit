@@ -45,6 +45,10 @@ public class AussieShitModElements {
 	public final List<Supplier<Enchantment>> enchantments = new ArrayList<>();
 	public static Map<ResourceLocation, net.minecraft.util.SoundEvent> sounds = new HashMap<>();
 	public AussieShitModElements() {
+		sounds.put(new ResourceLocation("aussie_shit", "downunderrecord"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("aussie_shit", "downunderrecord")));
+		sounds.put(new ResourceLocation("aussie_shit", "bunningswarehouse"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("aussie_shit", "bunningswarehouse")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("aussie_shit").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

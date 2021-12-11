@@ -1,0 +1,17 @@
+{
+  "_fv": 24,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "mac",
+    "name": "Music Disc",
+    "description": "Down under - Men at work",
+    "creativeTab": {
+      "value": "CUSTOM:Ausshittab"
+    },
+    "music": {
+      "value": "CUSTOM:downunderrecord"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

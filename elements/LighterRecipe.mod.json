@@ -7,7 +7,7 @@
     "cookingTime": 200,
     "recipeRetstackSize": 1,
     "group": "",
-    "recipeShapeless": false,
+    "recipeShapeless": true,
     "recipeSlots": [
       {
         "value": "Items.FLINT"
@@ -19,7 +19,7 @@
         "value": ""
       },
       {
-        "value": "Items.IRON_NUGGET"
+        "value": "Items.FLINT_AND_STEEL"
       },
       {
         "value": ""

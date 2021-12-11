@@ -10,7 +10,7 @@
       "Dont give it to a junkie"
     ],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:Ausshittab"
     },
     "toolType": "Special",
     "harvestLevel": 1,
@@ -18,7 +18,7 @@
     "attackSpeed": 1.0,
     "enchantability": 0,
     "damageVsEntity": 2.0,
-    "usageCount": 100,
+    "usageCount": 200,
     "blocksAffected": [],
     "hasGlow": false,
     "repairItems": [],

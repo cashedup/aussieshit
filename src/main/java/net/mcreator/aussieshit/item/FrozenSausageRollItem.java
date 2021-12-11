@@ -5,10 +5,10 @@ import net.minecraftforge.registries.ObjectHolder;
 
 import net.minecraft.item.Rarity;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.block.BlockState;
 
+import net.mcreator.aussieshit.itemgroup.AusshittabItemGroup;
 import net.mcreator.aussieshit.AussieShitModElements;
 
 @AussieShitModElements.ModElement.Tag
@@ -25,7 +25,7 @@ public class FrozenSausageRollItem extends AussieShitModElements.ModElement {
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(ItemGroup.FOOD).maxStackSize(64).rarity(Rarity.COMMON));
+			super(new Item.Properties().group(AusshittabItemGroup.tab).maxStackSize(64).rarity(Rarity.COMMON));
 			setRegistryName("frozen_sausage_roll");
 		}
 

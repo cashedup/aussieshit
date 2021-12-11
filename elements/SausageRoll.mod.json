@@ -6,12 +6,12 @@
     "texture": "screenshot_4",
     "customModelName": "Normal",
     "name": "Sausage Roll",
-    "rarity": "COMMON",
+    "rarity": "UNCOMMON",
     "specialInfo": [
-      "Cant go wrong with one of these"
+      "A Tradies favourite!"
     ],
     "creativeTab": {
-      "value": "FOOD"
+      "value": "CUSTOM:Ausshittab"
     },
     "stackSize": 64,
     "nutritionalValue": 6,

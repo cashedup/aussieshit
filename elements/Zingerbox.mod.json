@@ -1,0 +1,31 @@
+{
+  "_fv": 24,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "zinger",
+    "customModelName": "Normal",
+    "name": "Zinger box",
+    "rarity": "EPIC",
+    "specialInfo": [
+      "perfect for munchies ;)"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Ausshittab"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 9,
+    "saturation": 1.0,
+    "eatingSpeed": 32,
+    "resultItem": {
+      "value": ""
+    },
+    "forDogs": true,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "ZingerboxFoodEaten"
+    }
+  }
+}

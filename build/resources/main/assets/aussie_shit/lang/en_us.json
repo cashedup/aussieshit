@@ -1,8 +1,21 @@
 {
-  "item.aussie_shit.frozen_sausage_roll": "Frozen Sausage Roll",
+  "subtitles.downunderrecord": "",
+  "item.aussie_shit.downunder.desc": "Down under - Men at work",
   "item.aussie_shit.meat_pie": "Meat Pie",
+  "subtitles.bunningswarehouse": "",
+  "item.aussie_shit.pastry": "Pastry",
+  "advancements.zingereaten.descr": "ate a Zinger box for the first time and ascended ",
+  "item.aussie_shit.downunder": "Music Disc",
+  "advancements.zingereaten.title": "Gods\u0027 Plan",
+  "item.aussie_shit.kfcchicken": "Kfc chicken",
+  "item.aussie_shit.frozen_sausage_roll": "Frozen Sausage Roll",
   "item.aussie_shit.sausage_roll": "Sausage Roll",
   "item.aussie_shit.frozen_pie": "Frozen Pie",
   "item.aussie_shit.lighter": "Lighter",
-  "item.aussie_shit.pastry": "Pastry"
+  "item.aussie_shit.chipsfrozen": "frozen chips",
+  "item.aussie_shit.ignorethis": "icon",
+  "item.aussie_shit.zingerbox": "Zinger box",
+  "itemGroup.tabausshittab": "Ausshittab",
+  "item.aussie_shit.chipscooked": "Hot chips",
+  "item.aussie_shit.hsp": "HSP"
 }

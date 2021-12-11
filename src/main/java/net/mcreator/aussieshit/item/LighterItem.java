@@ -11,7 +11,6 @@ import net.minecraft.util.Direction;
 import net.minecraft.util.ActionResultType;
 import net.minecraft.item.ItemUseContext;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.inventory.EquipmentSlotType;
 import net.minecraft.entity.player.PlayerEntity;
@@ -24,6 +23,7 @@ import net.minecraft.block.BlockState;
 
 import net.mcreator.aussieshit.procedures.LighterRightClickedOnBlockProcedure;
 import net.mcreator.aussieshit.procedures.LighterLivingEntityIsHitWithToolProcedure;
+import net.mcreator.aussieshit.itemgroup.AusshittabItemGroup;
 import net.mcreator.aussieshit.AussieShitModElements;
 
 import java.util.Map;
@@ -92,7 +92,7 @@ public class LighterItem extends AussieShitModElements.ModElement {
 	}
 	private static class ItemToolCustom extends Item {
 		protected ItemToolCustom() {
-			super(new Item.Properties().group(ItemGroup.TOOLS).maxDamage(100));
+			super(new Item.Properties().group(AusshittabItemGroup.tab).maxDamage(200));
 		}
 
 		@Override

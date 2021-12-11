@@ -1,0 +1,24 @@
+{
+  "group": "aussie_shit",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:flint"
+    },
+    "1": {
+      "item": "minecraft:iron_nugget"
+    },
+    "2": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "aussie_shit:lighter",
+    "count": 1
+  }
+}

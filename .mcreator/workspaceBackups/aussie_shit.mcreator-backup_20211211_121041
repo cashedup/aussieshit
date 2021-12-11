@@ -12,6 +12,10 @@
       "metadata": {
         "dependencies": [
           {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
             "name": "x",
             "type": "number"
           },
@@ -55,12 +59,22 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "lighter"
+    },
+    {
+      "name": "MeatPie",
+      "type": "food",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "meat_pie"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.aussie_shit.meat_pie": "Meat Pie",
       "item.aussie_shit.lighter": "Lighter"
     }
   },

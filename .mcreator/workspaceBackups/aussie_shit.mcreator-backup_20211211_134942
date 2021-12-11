@@ -59,13 +59,70 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "lighter"
+    },
+    {
+      "name": "MeatPie",
+      "type": "food",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "meat_pie"
+    },
+    {
+      "name": "LighterRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lighter_recipe"
+    },
+    {
+      "name": "Pastry",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastry"
+    },
+    {
+      "name": "PastryRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastry_recipe"
+    },
+    {
+      "name": "MeatPieRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "meat_pie_recipe"
+    },
+    {
+      "name": "FrozenPie",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_pie"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.aussie_shit.lighter": "Lighter"
+      "item.aussie_shit.meat_pie": "Meat Pie",
+      "item.aussie_shit.frozen_pie": "Frozen Pie",
+      "item.aussie_shit.lighter": "Lighter",
+      "item.aussie_shit.pastry": "Pastry"
     }
   },
   "foldersRoot": {

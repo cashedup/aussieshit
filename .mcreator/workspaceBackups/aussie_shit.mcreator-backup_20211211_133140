@@ -77,6 +77,33 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "lighter_recipe"
+    },
+    {
+      "name": "Pastry",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastry"
+    },
+    {
+      "name": "PastryRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pastry_recipe"
+    },
+    {
+      "name": "MeatPieRecipe",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "meat_pie_recipe"
     }
   ],
   "variable_elements": [],
@@ -84,7 +111,8 @@
   "language_map": {
     "en_us": {
       "item.aussie_shit.meat_pie": "Meat Pie",
-      "item.aussie_shit.lighter": "Lighter"
+      "item.aussie_shit.lighter": "Lighter",
+      "item.aussie_shit.pastry": "Pastry"
     }
   },
   "foldersRoot": {

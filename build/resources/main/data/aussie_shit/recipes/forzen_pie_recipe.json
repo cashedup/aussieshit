@@ -1,0 +1,30 @@
+{
+  "group": "aussie_shit",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "aussie_shit:pastry"
+    },
+    "3": {
+      "item": "aussie_shit:pastry"
+    },
+    "4": {
+      "item": "minecraft:beef"
+    },
+    "5": {
+      "item": "aussie_shit:pastry"
+    },
+    "7": {
+      "item": "aussie_shit:pastry"
+    }
+  },
+  "result": {
+    "item": "aussie_shit:frozen_pie",
+    "count": 1
+  }
+}

@@ -49,6 +49,16 @@ public class AussieShitModElements {
 				new net.minecraft.util.SoundEvent(new ResourceLocation("aussie_shit", "downunderrecord")));
 		sounds.put(new ResourceLocation("aussie_shit", "bunningswarehouse"),
 				new net.minecraft.util.SoundEvent(new ResourceLocation("aussie_shit", "bunningswarehouse")));
+		sounds.put(new ResourceLocation("aussie_shit", "yirikimusic1"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("aussie_shit", "yirikimusic1")));
+		sounds.put(new ResourceLocation("aussie_shit", "outbackambience"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("aussie_shit", "outbackambience")));
+		sounds.put(new ResourceLocation("aussie_shit", "boganhurt"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("aussie_shit", "boganhurt")));
+		sounds.put(new ResourceLocation("aussie_shit", "livingbogan"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("aussie_shit", "livingbogan")));
+		sounds.put(new ResourceLocation("aussie_shit", "bogan2life"),
+				new net.minecraft.util.SoundEvent(new ResourceLocation("aussie_shit", "bogan2life")));
 		try {
 			ModFileScanData modFileInfo = ModList.get().getModFileById("aussie_shit").getFile().getScanResult();
 			Set<ModFileScanData.AnnotationData> annotations = modFileInfo.getAnnotations();

@@ -1,0 +1,141 @@
+{
+  "_fv": 24,
+  "_type": "biome",
+  "definition": {
+    "name": "Outback",
+    "groundBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.DIRT#0"
+    },
+    "airColor": {
+      "value": -22417,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -154,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -154,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": "CUSTOM:outbackambience"
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": "CUSTOM:yirikimusic1"
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "SMOKE_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "rainingPossibility": 0.1,
+    "temperature": 2.0,
+    "baseHeight": 0.0,
+    "heightVariation": 0.1,
+    "biomeType": "DESERT",
+    "spawnBiome": false,
+    "biomeWeight": 5,
+    "biomeDictionaryTypes": [
+      "HOT",
+      "WASTELAND",
+      "SAVANNA"
+    ],
+    "grassPerChunk": 0,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 1,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 1,
+    "vanillaTreeType": "Savanna trees",
+    "treeType": 1,
+    "minHeight": 9,
+    "maxWaterDepth": 0,
+    "treeStem": {
+      "value": "Blocks.LOG2#0"
+    },
+    "treeBranch": {
+      "value": "Blocks.LEAVES2#1"
+    },
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": true,
+    "spawnPillagerOutpost": false,
+    "villageType": "savanna",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "oceanRuinType": "NONE",
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer",
+      "ExtraGoldOre",
+      "DeadBushes"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityCow"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 15,
+        "spawnType": "ambient"
+      },
+      {
+        "entity": {
+          "value": "EntitySheep"
+        },
+        "minGroup": 4,
+        "maxGroup": 5,
+        "weight": 16,
+        "spawnType": "ambient"
+      },
+      {
+        "entity": {
+          "value": "EntitySpider"
+        },
+        "minGroup": 1,
+        "maxGroup": 5,
+        "weight": 19,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityZombie"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 16,
+        "spawnType": "monster"
+      }
+    ]
+  }
+}

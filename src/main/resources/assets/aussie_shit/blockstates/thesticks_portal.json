@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "aussie_shit:block/thesticks_portal_ew"
+    },
+    "axis=x": {
+      "model": "aussie_shit:block/thesticks_portal_ns"
+    }
+  }
+}

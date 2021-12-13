@@ -38,7 +38,7 @@
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:Lighter"
+      "value": "CUSTOM:Thesticks"
     },
     "name": "lighter",
     "namespace": "mod"

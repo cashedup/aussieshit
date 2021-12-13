@@ -1,0 +1,36 @@
+{
+  "group": "aussie_shit",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "aussie_shit:opal"
+    },
+    "1": {
+      "item": "aussie_shit:opal"
+    },
+    "2": {
+      "item": "aussie_shit:opal"
+    },
+    "3": {
+      "item": "aussie_shit:opal"
+    },
+    "5": {
+      "item": "aussie_shit:opal"
+    },
+    "6": {
+      "item": "aussie_shit:opal"
+    },
+    "8": {
+      "item": "aussie_shit:opal"
+    }
+  },
+  "result": {
+    "item": "aussie_shit:opalarmour_leggings",
+    "count": 1
+  }
+}

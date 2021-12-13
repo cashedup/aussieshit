@@ -40,7 +40,7 @@
     "recipeReturnStack": {
       "value": "CUSTOM:Pastry"
     },
-    "name": "pastry_recipe",
+    "name": "pastryrecipe",
     "namespace": "mod"
   }
 }

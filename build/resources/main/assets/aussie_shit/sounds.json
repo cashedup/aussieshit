@@ -16,5 +16,50 @@
         "stream": true
       }
     ]
+  },
+  "yirikimusic1": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "aussie_shit:yiriki_music",
+        "stream": true
+      }
+    ]
+  },
+  "outbackambience": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "aussie_shit:outbackambience",
+        "stream": false
+      }
+    ]
+  },
+  "boganhurt": {
+    "category": "hostile",
+    "sounds": [
+      {
+        "name": "aussie_shit:bogan_hurt",
+        "stream": false
+      }
+    ]
+  },
+  "livingbogan": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "aussie_shit:bogan_life",
+        "stream": false
+      }
+    ]
+  },
+  "bogan2life": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "aussie_shit:bogan2_life",
+        "stream": false
+      }
+    ]
   }
 }

@@ -1,0 +1,27 @@
+{
+  "group": "aussie_shit",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "aussie_shit:opal"
+    },
+    "1": {
+      "item": "aussie_shit:opal"
+    },
+    "3": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "aussie_shit:opaltools_hoe",
+    "count": 1
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Outback"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "onPlayerEntersDimension": {
+      "name": "ThesticksPlayerEntersDimension"
+    },
+    "portalFrame": {
+      "value": "CUSTOM:Opalblock"
+    },
+    "portalParticles": {
+      "value": "CRIMSON_SPORE"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Lighter",
+    "igniterTab": {
+      "value": "CUSTOM:Ausshittab"
+    },
+    "texture": "lighter",
+    "portalTexture": "diamond_block",
+    "enablePortal": true
+  }
+}

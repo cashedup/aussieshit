@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "aussie_shit:blocks/diamond_block",
+    "particle": "aussie_shit:blocks/diamond_block"
+  }
+}

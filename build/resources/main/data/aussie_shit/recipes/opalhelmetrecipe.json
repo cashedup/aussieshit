@@ -1,0 +1,29 @@
+{
+  "group": "aussie_shit",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "aussie_shit:opal"
+    },
+    "1": {
+      "item": "aussie_shit:opal"
+    },
+    "2": {
+      "item": "aussie_shit:opal"
+    },
+    "3": {
+      "item": "aussie_shit:opal"
+    },
+    "5": {
+      "item": "aussie_shit:opal"
+    }
+  },
+  "result": {
+    "item": "aussie_shit:opalarmour_helmet",
+    "count": 1
+  }
+}

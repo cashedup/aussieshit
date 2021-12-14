@@ -39,7 +39,7 @@
       "value": "CUSTOM:Ausshittab"
     },
     "texture": "lighter",
-    "portalTexture": "diamond_block",
+    "portalTexture": "sticksportal",
     "enablePortal": true
   }
 }

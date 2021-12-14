@@ -610,6 +610,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "frozen_chips_recipe"
+    },
+    {
+      "name": "Topaz",
+      "type": "item",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz"
+    },
+    {
+      "name": "TopazOre",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz_ore"
     }
   ],
   "variable_elements": [],
@@ -680,6 +698,7 @@
       "subtitles.bogan2life": "",
       "item.aussie_shit.frozen_chips": "Frozen Chips",
       "advancements.zingereaten.title": "Gods\u0027 Plan",
+      "item.aussie_shit.topaz": "Topaz",
       "item.aussie_shit.opaltools_shovel": "Opaltools Shovel",
       "item.aussie_shit.kfcchicken": "Kfc chicken",
       "entity.aussie_shit.bogan": "Bogan",
@@ -701,6 +720,7 @@
       "item.aussie_shit.downunder": "Music Disc",
       "item.aussie_shit.bogan_2_spawn_egg": "Bogan 2 Spawn Egg",
       "block.aussie_shit.opalore": "Opal ore",
+      "block.aussie_shit.topaz_ore": "Topaz Ore",
       "item.aussie_shit.opalarmour_leggings": "Opal Leggings",
       "subtitles.yirikimusic1": "",
       "item.aussie_shit.opalarmour_helmet": "Opal Helmet",

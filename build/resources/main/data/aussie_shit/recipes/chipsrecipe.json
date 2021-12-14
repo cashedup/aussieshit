@@ -4,7 +4,7 @@
   "experience": 1,
   "cookingtime": 200,
   "ingredient": {
-    "item": "aussie_shit:chipsfrozen"
+    "item": "aussie_shit:frozen_chips"
   },
   "result": {
     "item": "aussie_shit:chipscooked"

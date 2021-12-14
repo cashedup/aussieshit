@@ -1,0 +1,30 @@
+{
+  "group": "aussie_shit",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "aussie_shit:topaz"
+    },
+    "1": {
+      "item": "aussie_shit:topaz"
+    },
+    "2": {
+      "item": "aussie_shit:topaz"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "aussie_shit:topaz_tools_pickaxe",
+    "count": 1
+  }
+}

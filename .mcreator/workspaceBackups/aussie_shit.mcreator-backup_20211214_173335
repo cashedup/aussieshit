@@ -20,15 +20,6 @@
       "registry_name": "lighter_recipe"
     },
     {
-      "name": "FrozenPie",
-      "type": "item",
-      "sortid": 8,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "frozen_pie"
-    },
-    {
       "name": "ForzenPieRecipe",
       "type": "recipe",
       "sortid": 9,
@@ -54,15 +45,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "sausage_roll"
-    },
-    {
-      "name": "FrozenSausageRoll",
-      "type": "item",
-      "sortid": 12,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "frozen_sausage_roll"
     },
     {
       "name": "FrozenSausageRollRecipe",
@@ -119,15 +101,6 @@
       "registry_name": "zingereaten"
     },
     {
-      "name": "Chipsfrozen",
-      "type": "item",
-      "sortid": 19,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chipsfrozen"
-    },
-    {
       "name": "Chipscooked",
       "type": "food",
       "sortid": 21,
@@ -162,15 +135,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "meat_pie_recipe_smoker"
-    },
-    {
-      "name": "Sausagerollrecipesmoker",
-      "type": "recipe",
-      "sortid": 25,
-      "compiles": true,
-      "locked_code": true,
-      "ids": {},
-      "registry_name": "sausagerollrecipesmoker"
     },
     {
       "name": "Kfcchickenrecipe",
@@ -584,6 +548,86 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "opaltools_hoe_recipe"
+    },
+    {
+      "name": "FrozenFoodEaten",
+      "type": "procedure",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_food_eaten",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "FrozenPie",
+      "type": "food",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_pie"
+    },
+    {
+      "name": "FrozenSausageRoll",
+      "type": "food",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_sausage_roll"
+    },
+    {
+      "name": "SausageRollSmokerRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sausage_roll_smoker_recipe"
+    },
+    {
+      "name": "FrozenChips",
+      "type": "food",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_chips"
+    },
+    {
+      "name": "FrozenChipsRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "frozen_chips_recipe"
+    },
+    {
+      "name": "Topaz",
+      "type": "item",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz"
+    },
+    {
+      "name": "TopazOre",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "topaz_ore"
     }
   ],
   "variable_elements": [],
@@ -652,7 +696,9 @@
       "item.aussie_shit.meat_pie": "Meat Pie",
       "subtitles.bunningswarehouse": "",
       "subtitles.bogan2life": "",
+      "item.aussie_shit.frozen_chips": "Frozen Chips",
       "advancements.zingereaten.title": "Gods\u0027 Plan",
+      "item.aussie_shit.topaz": "Topaz",
       "item.aussie_shit.opaltools_shovel": "Opaltools Shovel",
       "item.aussie_shit.kfcchicken": "Kfc chicken",
       "entity.aussie_shit.bogan": "Bogan",
@@ -674,11 +720,11 @@
       "item.aussie_shit.downunder": "Music Disc",
       "item.aussie_shit.bogan_2_spawn_egg": "Bogan 2 Spawn Egg",
       "block.aussie_shit.opalore": "Opal ore",
+      "block.aussie_shit.topaz_ore": "Topaz Ore",
       "item.aussie_shit.opalarmour_leggings": "Opal Leggings",
       "subtitles.yirikimusic1": "",
       "item.aussie_shit.opalarmour_helmet": "Opal Helmet",
       "item.aussie_shit.opaltools_pickaxe": "Opal Pickaxe",
-      "item.aussie_shit.chipsfrozen": "frozen chips",
       "item.aussie_shit.opalarmour_chestplate": "Opal Chestplate",
       "entity.aussie_shit.bogan_2": "Bogan 2",
       "item.aussie_shit.ignorethis": "icon",

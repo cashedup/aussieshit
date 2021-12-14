@@ -9,7 +9,7 @@
     "group": "",
     "recipeShapeless": false,
     "smokingInputStack": {
-      "value": "CUSTOM:Chipsfrozen"
+      "value": "CUSTOM:FrozenChips"
     },
     "smokingReturnStack": {
       "value": "CUSTOM:Chipscooked"

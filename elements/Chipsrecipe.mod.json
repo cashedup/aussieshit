@@ -9,7 +9,7 @@
     "group": "",
     "recipeShapeless": false,
     "smeltingInputStack": {
-      "value": "CUSTOM:Chipsfrozen"
+      "value": "CUSTOM:FrozenChips"
     },
     "smeltingReturnStack": {
       "value": "CUSTOM:Chipscooked"

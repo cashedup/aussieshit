@@ -1,34 +1,29 @@
 {
   "_fv": 24,
-  "_type": "item",
+  "_type": "food",
   "definition": {
     "renderType": 0,
     "texture": "screenshot_5",
     "customModelName": "Normal",
     "name": "Frozen Sausage Roll",
     "rarity": "COMMON",
+    "specialInfo": [],
     "creativeTab": {
-      "value": "CUSTOM:Ausshittab"
+      "value": "FOOD"
     },
     "stackSize": 64,
-    "enchantability": 0,
-    "useDuration": 0,
-    "toolType": 1.0,
-    "damageCount": 0,
-    "recipeRemainder": {
+    "nutritionalValue": 1,
+    "saturation": 0.1,
+    "eatingSpeed": 32,
+    "resultItem": {
       "value": ""
     },
-    "destroyAnyBlock": false,
-    "immuneToFire": false,
-    "stayInGridWhenCrafting": false,
-    "damageOnCrafting": false,
-    "enableMeleeDamage": false,
-    "damageVsEntity": 0.0,
-    "specialInfo": [],
+    "forDogs": false,
+    "isAlwaysEdible": false,
+    "animation": "eat",
     "hasGlow": false,
-    "guiBoundTo": "<NONE>",
-    "inventorySize": 9,
-    "inventoryStackSize": 64,
-    "hasDispenseBehavior": false
+    "onEaten": {
+      "name": "FrozenFoodEaten"
+    }
   }
 }

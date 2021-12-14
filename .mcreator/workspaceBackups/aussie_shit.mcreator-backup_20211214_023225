@@ -300,22 +300,6 @@
           {
             "name": "entity",
             "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "number"
-          },
-          {
-            "name": "y",
-            "type": "number"
-          },
-          {
-            "name": "z",
-            "type": "number"
-          },
-          {
-            "name": "world",
-            "type": "world"
           }
         ]
       }
@@ -364,6 +348,242 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "opal"
+    },
+    {
+      "name": "Opalore",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opalore"
+    },
+    {
+      "name": "Opalsmelt",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opalsmelt"
+    },
+    {
+      "name": "Opalsmeltblast",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opalsmeltblast"
+    },
+    {
+      "name": "Opalblock",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opalblock"
+    },
+    {
+      "name": "Opalarmour",
+      "type": "armor",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opalarmour",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "ThesticksPlayerEntersDimension",
+      "type": "procedure",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thesticks_player_enters_dimension",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Thesticks",
+      "type": "dimension",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "thesticks",
+      "metadata": {
+        "ep": true
+      }
+    },
+    {
+      "name": "Opalblockrecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opalblockrecipe"
+    },
+    {
+      "name": "Opalfromblockrecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opalfromblockrecipe"
+    },
+    {
+      "name": "Opalhelmetrecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opalhelmetrecipe"
+    },
+    {
+      "name": "Opalchestplaterecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opalchestplaterecipe"
+    },
+    {
+      "name": "Opalleggingsrecipe",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opalleggingsrecipe"
+    },
+    {
+      "name": "Opalbootsrecipe",
+      "type": "recipe",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opalbootsrecipe"
+    },
+    {
+      "name": "OpaltoolsPickaxe",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opaltools_pickaxe"
+    },
+    {
+      "name": "OpaltoolsAxe",
+      "type": "tool",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opaltools_axe"
+    },
+    {
+      "name": "OpaltoolsSword",
+      "type": "tool",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opaltools_sword"
+    },
+    {
+      "name": "OpaltoolsShovel",
+      "type": "tool",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opaltools_shovel"
+    },
+    {
+      "name": "OpaltoolsHoe",
+      "type": "tool",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opaltools_hoe"
+    },
+    {
+      "name": "OpaltoolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opaltools_pickaxe_recipe"
+    },
+    {
+      "name": "OpaltoolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opaltools_axe_recipe"
+    },
+    {
+      "name": "OpaltoolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opaltools_sword_recipe"
+    },
+    {
+      "name": "OpaltoolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opaltools_shovel_recipe"
+    },
+    {
+      "name": "OpaltoolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "opaltools_hoe_recipe"
     }
   ],
   "variable_elements": [],
@@ -429,25 +649,37 @@
     "en_us": {
       "item.aussie_shit.meat_pie": "Meat Pie",
       "item.aussie_shit.opal": "Opal",
+      "item.aussie_shit.opaltools_sword": "Opaltools Sword",
       "subtitles.bunningswarehouse": "",
       "subtitles.bogan2life": "",
       "advancements.zingereaten.title": "Gods\u0027 Plan",
+      "item.aussie_shit.opaltools_shovel": "Opaltools Shovel",
       "item.aussie_shit.kfcchicken": "Kfc chicken",
       "entity.aussie_shit.bogan": "Bogan",
       "item.aussie_shit.frozen_sausage_roll": "Frozen Sausage Roll",
       "item.aussie_shit.sausage_roll": "Sausage Roll",
       "item.aussie_shit.frozen_pie": "Frozen Pie",
+      "item.aussie_shit.opaltools_axe": "Opal Axe",
       "item.aussie_shit.zingerbox": "Zinger box",
       "subtitles.downunderrecord": "",
       "item.aussie_shit.downunder.desc": "Down under - Men at work",
       "biome.aussie_shit.outback": "Outback",
       "subtitles.livingbogan": "",
+      "item.aussie_shit.opalarmour_boots": "Opal Boots",
+      "block.aussie_shit.opalblock": "Opalblock",
+      "item.aussie_shit.thesticks": "Lighter",
+      "item.aussie_shit.opaltools_hoe": "Opal Hoe",
       "item.aussie_shit.pastry": "Pastry",
       "advancements.zingereaten.descr": "ate a Zinger box for the first time and ascended ",
       "item.aussie_shit.downunder": "Music Disc",
       "item.aussie_shit.bogan_2_spawn_egg": "Bogan 2 Spawn Egg",
+      "block.aussie_shit.opalore": "Opal ore",
+      "item.aussie_shit.opalarmour_leggings": "Opal Leggings",
       "subtitles.yirikimusic1": "",
+      "item.aussie_shit.opalarmour_helmet": "Opal Helmet",
+      "item.aussie_shit.opaltools_pickaxe": "Opal Pickaxe",
       "item.aussie_shit.chipsfrozen": "frozen chips",
+      "item.aussie_shit.opalarmour_chestplate": "Opal Chestplate",
       "entity.aussie_shit.bogan_2": "Bogan 2",
       "item.aussie_shit.ignorethis": "icon",
       "subtitles.outbackambience": "",

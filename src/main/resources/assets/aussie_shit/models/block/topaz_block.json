@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "aussie_shit:blocks/topaz_block",
+    "up": "aussie_shit:blocks/topaz_block",
+    "north": "aussie_shit:blocks/topaz_block",
+    "east": "aussie_shit:blocks/topaz_block",
+    "south": "aussie_shit:blocks/topaz_block",
+    "west": "aussie_shit:blocks/topaz_block",
+    "particle": "aussie_shit:blocks/topaz_block"
+  }
+}

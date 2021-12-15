@@ -5,10 +5,10 @@
     "renderType": 0,
     "texture": "topaztools_hoe",
     "customModelName": "Normal",
-    "name": "TopazTools Hoe",
+    "name": "Topaz Hoe",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:Ausshittab"
     },
     "toolType": "Hoe",
     "harvestLevel": 2,

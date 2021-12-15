@@ -5,10 +5,10 @@
     "renderType": 0,
     "texture": "topaztools_axe",
     "customModelName": "Normal",
-    "name": "TopazTools Axe",
+    "name": "Topaz Axe",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:Ausshittab"
     },
     "toolType": "Axe",
     "harvestLevel": 2,

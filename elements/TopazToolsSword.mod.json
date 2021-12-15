@@ -5,10 +5,10 @@
     "renderType": 0,
     "texture": "topaztools_sword",
     "customModelName": "Normal",
-    "name": "TopazTools Sword",
+    "name": "Topaz Sword",
     "specialInfo": [],
     "creativeTab": {
-      "value": "COMBAT"
+      "value": "CUSTOM:Ausshittab"
     },
     "toolType": "Sword",
     "harvestLevel": 2,

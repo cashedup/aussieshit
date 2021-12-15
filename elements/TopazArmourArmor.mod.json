@@ -11,9 +11,9 @@
     "enableBoots": true,
     "textureBoots": "topazboots",
     "creativeTab": {
-      "value": "COMBAT"
+      "value": "CUSTOM:Ausshittab"
     },
-    "armorTextureFile": "topazarmour",
+    "armorTextureFile": "topazarmour_",
     "helmetName": "TopazArmour Helmet",
     "bodyName": "TopazArmour Chestplate",
     "leggingsName": "TopazArmour Leggings",

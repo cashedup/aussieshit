@@ -121,7 +121,10 @@
     "isFluidTank": false,
     "fluidCapacity": 8000,
     "fluidRestrictions": [],
-    "spawnWorldTypes": [],
+    "spawnWorldTypes": [
+      "Surface",
+      "CUSTOM:Thesticks"
+    ],
     "restrictionBiomes": [],
     "blocksToReplace": [
       {

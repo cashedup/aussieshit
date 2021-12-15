@@ -15,7 +15,7 @@ snooperEnabled:false
 showSubtitles:false
 touchscreen:false
 fullscreen:false
-bobView:false
+bobView:true
 toggleCrouch:false
 toggleSprint:false
 mouseSensitivity:0.5

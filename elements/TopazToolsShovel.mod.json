@@ -5,10 +5,10 @@
     "renderType": 0,
     "texture": "topaztools_shovel",
     "customModelName": "Normal",
-    "name": "TopazTools Shovel",
+    "name": "Topaz Shovel",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:Ausshittab"
     },
     "toolType": "Spade",
     "harvestLevel": 2,

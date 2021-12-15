@@ -5,10 +5,10 @@
     "renderType": 0,
     "texture": "topaztools_pickaxe",
     "customModelName": "Normal",
-    "name": "TopazTools Pickaxe",
+    "name": "Topaz Pickaxe",
     "specialInfo": [],
     "creativeTab": {
-      "value": "TOOLS"
+      "value": "CUSTOM:Ausshittab"
     },
     "toolType": "Pickaxe",
     "harvestLevel": 2,

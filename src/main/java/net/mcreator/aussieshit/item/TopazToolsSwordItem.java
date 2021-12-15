@@ -6,10 +6,10 @@ import net.minecraftforge.registries.ObjectHolder;
 import net.minecraft.item.crafting.Ingredient;
 import net.minecraft.item.SwordItem;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.item.IItemTier;
 
+import net.mcreator.aussieshit.itemgroup.AusshittabItemGroup;
 import net.mcreator.aussieshit.AussieShitModElements;
 
 @AussieShitModElements.ModElement.Tag
@@ -46,7 +46,7 @@ public class TopazToolsSwordItem extends AussieShitModElements.ModElement {
 			public Ingredient getRepairMaterial() {
 				return Ingredient.fromStacks(new ItemStack(TopazItem.block));
 			}
-		}, 3, -3f, new Item.Properties().group(ItemGroup.COMBAT)) {
+		}, 3, -3f, new Item.Properties().group(AusshittabItemGroup.tab)) {
 		}.setRegistryName("topaz_tools_sword"));
 	}
 }

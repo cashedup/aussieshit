@@ -4,12 +4,12 @@
   "definition": {
     "structure": "pub",
     "randomlyRotateStructure": true,
-    "surfaceDetectionType": "First motion blocking block",
+    "surfaceDetectionType": "First block",
     "spawnProbability": 10000,
     "minCountPerChunk": 1,
     "maxCountPerChunk": 1,
     "spawnLocation": "Ground",
-    "spawnHeightOffset": 0,
+    "spawnHeightOffset": -3,
     "spawnXOffset": 0,
     "spawnZOffset": 0,
     "spawnWorldTypes": [
